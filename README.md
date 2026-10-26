@@ -15,7 +15,7 @@ Main question: **where do customers drop off between browsing and buying, and wh
 **1. Most people who add something to their cart don't buy it.**
 Of the 431,205 sessions where someone added an item to their cart, only 181,995 ended in a purchase. That means about **58% of carts were abandoned**, which was the biggest drop-off in the funnel.
 
-![Funnel](chart1_funnel.png)
+<img src="chart1_funnel.png" width="550">
 
 **2. Where visitors came from didn't change whether they bought.**
 All five traffic sources converted at nearly the same rate, between 26.5% and 26.8%. The real difference was volume: Email brought in almost half of all sessions (45%).
