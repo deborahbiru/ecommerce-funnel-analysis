@@ -23,14 +23,14 @@ All five traffic sources converted at nearly the same rate, between 26.5% and 26
 **3. Coats and suits bring in the most money per order.**
 Outerwear & Coats was the top category by revenue even though several categories had more orders, because each order averaged about $111. Suits were close behind at about $98. Cheaper categories like hoodies and loungewear sold often but brought in about $40 per order.
 
-![Revenue per order](chart3_category_value.png)
+<img src="chart3_category_value.png" width="550">
 
 **4. Most buyers only ordered once.**
 Out of 66,374 customers, only 30.6% came back for a second order, and the ones who did waited about 14 months on average.
 
 **Context:** the store's monthly revenue grew a lot over time, from almost nothing in 2019 to about $375K in September 2026.
 
-![Monthly revenue](chart2_monthly_revenue.png)
+<img src="chart2_monthly_revenue.png" width="550">
 
 ## What I'd suggest
 - Test ways to get people through checkout, like reminder emails for abandoned carts
